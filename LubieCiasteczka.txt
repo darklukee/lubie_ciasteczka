@@ -1,0 +1,451 @@
+[Adblock Plus]
+! Title: LubieCiasteczka
+! Last modified: 07 Oct 2015 08:28 GMT
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/darklukee/lubie_ciasteczka
+
+~komunikacja.bialystok.pl,~nvidia.com##:not(input)[id*="cookie"]
+##:not(input)[id*="Cookie"]
+
+~bt4.pl,~kolba.pl,~ezakupy.tesco.pl##div[class*="cookie"]
+##div[class*="Cookie"]
+##iframe[class*="cookie"]
+##iframe[class*="Cookie"]
+##span[class*="cookie"]
+##span[class*="Cookie"]
+##nav[class*="cookie"]
+##nav[class*="Cookie"]
+##aside[class*="cookie"]
+##aside[class*="Cookie"]
+
+###AdBlockerInfo
+###COOKIE_BANNER
+###askcook
+###avcn_wrapperOuter
+###avcns-wrapper
+###cadre_alert_cookies
+###cc-notification
+###cc-notification-wrapper
+###cccwr
+###ccm-banner-wrap
+###ciasteczka
+###ckWarning
+###e-privacy-message
+###epbar
+###fdih-cb
+###footerCk
+###have-a-cookie
+###iubenda-cs-banner
+###kuki
+###ma > .ckch
+###npo_cc_notification
+###npo_cc_notification_wrapper
+###obvestilo-piskotki
+###obvstilo-piskotki
+###permission-bar
+###piskotOpozorilo
+###piskotki_obvestilo
+###plea
+###policyNotice
+###privacyPolicyLayerN
+###promoTb > tbody > tr:nth-of-type(1)
+###rbiCookiePolicy_pushDownBoxWrapper
+###scc-consent
+###sliding-popup
+###top-notification-bar-container
+###usrConsent
+##.alert-info.alert-dismissable.alert
+##.annoying.notice
+##.bmj-cookie-noticebar-content
+##.bottom_message
+##.ccmcss_oic
+##.ce-banner
+##.cl_dark.cl_bottom.cl_bar
+##.con-large.cpr-bar
+##.notification.info
+##div[data-ng-controller="AcceptCookiesController"]
+
+##div[id="sliding-popup"]
+##div[class^="pea_cook_wrapper"]
+##div[id="eKPC_Container"]
+##div[id="ck_dsclr"]
+##div[id="ca_banner"]
+##*[id="co15ie87a"]
+##*[id="inpl_cp_cnt"]
+
+facebook.com##div#u_0_v
+swidnica24.pl##div#policyBox
+fairy-tale.pl##div#cookis-bg
+pkl.pl##div.box
+keepass.info##div.cc_banner-wrapper 
+easy-soft.net.pl##div#info
+gros24.pl##div#topInfoContainer0
+tvn24.pl##div#msgLayer
+warszawa-pragapoludnie.sr.gov.pl##div#divcook
+hosting.onet.pl##div.policy-box
+decathlon.pl##div#container-screen
+centrumpilkarskie.pl##div.jqibox
+kentype.pl##div#ciasteczka-box
+gniezno24.com##div.activebar-container
+akademia-piwa.pl##div#polityka_tekst
+czarnaowca.pl##div#cokPyt
+kurier.k-ex.pl##div.RACKWrapper
+pl.twich.tv##div#noty_bottomCenter_layout_container
+herba-farm.pl##div#topInfoContainer1
+poczesna.com.pl##div#PolitykaBlok
+silesiasports.eu##div#topInfoContainer0
+simba.com.pl##div#cContainer
+teatrateneum.pl##div#ecd_opt_in_banner
+fotojoker.pl##div#floatDiv
+nakanapie.pl##div.sticker
+tluszczak.pl##div#ml_wrapper
+eszkola.pl##div#cookemessagehandler
+szczecinek.lasy.gov.pl##div.popup-alert-notice
+streszczenia.pl##div#cookemessagehandler
+plotowanie.com##div#howdydo-wrapper
+leclerc.com.pl##div#tekst
+shazam.com##div.policy-label
+mazowsze.travel##div#cc-notification
+nacydr.pl##div#pasek
+taniestruny.pl##p[class*="message_cookie"]
+extraserv.pl##div#uwaga
+forumplay.pl##li#navbar_notice_6
+platinumoil.eu##div.head-page-information
+fotoblogia.pl##div#cop
+ksu.parp.gov.pl##div#howdydo-wrapper
+msw.gov.pl##div.JSWrapper
+eternityproject.pl##div.newsbar
+4hifi.pl##div.reveal-modal-bg
+4hifi.pl##div#myModal
+seszele.com.pl##iframe#cookfr
+nizanski.eu##div#cc-notification
+carisma.pl##div#ciasteczka
+kuchniapelnanagrod.pl##div#claw-prompt
+nomi.pl##div#Messenger-Special
+praktiker.pl##div.info_c_box
+goclever.pl##div#cp-wrap
+wydawca.com.pl##div#kuki
+zosiaikevin.pl##div#novem-slot
+muzeum-kaszubskie.gda.pl##div.shotimoo
+muzeumwp.pl##div.RACKWrapper
+ekoserwis.poznan.pl##div.head-page-information
+club.lego.com##div#GFSticky
+okulary.szkla.com##div#polityka_prywatnosci
+anndecor.pl##div#ciacho_bar
+mini-itx.com.pl##div#ciastka
+pl.yahoo.com##div#mediafpwave3-wshade
+menua.pl##div#topInfo1
+labottegatoscana.pl##div#disclaimer
+generali.pl##div#cLayer
+acmilan24.com##div#top_oko2
+uk.ign.com##div#policyNotice
+studiokopiowania.pl##div#cooPInfo
+komunikacja.um.bialystok.pl##a[href="/?page=cookies"]
+forum.mcwiki.pl##div#notice
+cda.pl##div#box_info
+racjonalista.pl##div#_ci
+mokate.com.pl##div#ciasteczka
+drogeriahebe.pl##section.legal-info
+wtk.com.pl##div#TB_overlay
+wtk.com.pl##div#TB_window
+goldenline.pl##section[class*="cookiesInfo"]
+shop-dent.pl##div.black_overlay
+shop-dent.pl##div.ciacho-wrap-container
+ekosalus.pl##div#DIVwelcome
+babki.poznan.lasy.gov.pl##div.popup-alert-notice
+fixafilm.pl##div#ciasteczka_alert
+ign.org.pl##div#closeCookeiInfo
+poznan.lasy.gov.pl##div#aui_3_2_0_1243
+imgw.pl##div#coockies
+cordcruncher.pl##div#cookie
+totaaltv.nl##div#sanoma-consent-bar
+stat.gov.pl##div#divcook
+olimpiasport.pl##div#sek_cstk_inf
+nik.gov.pl##div.informationBar
+plytki-lazienki.pl##div#topInfoContainer1
+hotelbrda.com.pl##div#examplediv
+nyanyan.pl##div[style="font-size:10px; background: #666; color:#000"]
+kreskoweczki.pl##div#gbpl_oba
+kolejeslaskie.com##div#c_m
+bstorun.pl##div#comm_info
+rockpapershotgun.com##div#ecd_opt_in_banner
+swietnafirma.pl##div#cMess
+animeon.pl##div#cookis-bg
+fajkowo.pl##div#cookie
+gikz.pl##div#cc-notification
+hattrick.interia.pl##div.alert
+santanderconsumer.pl##div#pageUpperInfo
+iperfumy.pl##div#gritter-notice-wrapper
+goclever.com##div#cp-wrap
+szkoleniapartner.pl##div#messagePopup
+windows7.pl##div#ciasteczka
+gsm-grodzisk.pl##div#_mo
+krosnocity.pl###polcia
+mpk.krakow.pl##div#poityka-ciastek
+webelite.pl##div#infobar
+szostygracz.pl##div#cw_statusbar
+lovekrakow.pl##div#new-policy
+poczesna.com.pl##div#PolitykaBlok
+kupbilet.pl##div#t3393f
+mania4x4.pl##div.activebar-container
+yp.pl##div#jQ_cookiBox
+eco.atman.pl##div#gbpl_oba
+wkd.com.pl##div#_mo
+totalmoney.pl##div#right_widget
+penguingamers.eu##div#RACKWrapper
+pekao.com.pl##div#box-layer
+wu.swps.edu.pl##div#Iagree
+epapierosylodz.pl##div#topInfoContainer1
+gameplay.pl##div#CP_box
+mpk.lodz.pl##div#stpdueckmsg
+shippuuden.pl##div#cookis-bg
+speedtest.com.pl##div#info_container
+pekao.com.pl##div[id="box-layer"][style="height: 793px; opacity: 0.6;"]
+pekao.com.pl##div[id="popup"][style="width: 400px;height: 400px; position: absolute; z-index:999999; top:50px; left:50%; margin-left:-480px; background: url('/res/layerPopup/policy_popup_PL.jpg') no-repeat;"]
+ford-esklep.pl##div#box_alert
+dvbsklep.pl##div#simple-modal-overlay
+dvbsklep.pl##div#simple-modal
+cookielaw.org##div.optanon-alert-box-wrapper
+usmiechnijmisie.pl##div.coockie
+pap.pl##div#divcook
+mpolska24.pl##div.infoBox
+miplo.pl##div[style="zoom: 1; border: none; position: relative; "][class="error rounded"]
+hemp.pl##table[border="0"][cellspacing="0"][cellpadding="0"][width="1166"][height=""][align="center"][valign="top"][bgcolor="gray"]
+arachnea.org##div.guestwarn
+popoznaniu.pl##div#divcook
+contakt.pl##div.RACKWrapper
+unitour.pl##ul#noty_top_layout_container
+e24cloud.com##div#FullBox
+cinema-city.pl##div#layer_2_0_0
+opineo.pl##div#uclaInfo
+cyberbajt.pl##div#message0
+rynekinfrastruktury.pl##div#cooki_accept
+animesub.info##div.appriseOuter
+animesub.info##div#aOverlay
+komorkomania.pl##div#cop
+instalki.pl##div#ciasteczka
+ebok.vectra.pl##div.jqmAlertContent
+break.pl##div.RACKWrapper
+giercownia.pl##div#ci-info-box
+torun.lasy.gov.pl##div.popup-alert-notice
+tvgry.pl##div#CP_box
+radiopik.pl##div#hmonit
+schroniskotczew.pl##div.activebar-container
+drony.net##div#cop
+forum.minepedia.pl##div#notice
+kabam.com##div#eu_privacy
+tekstowo.pl##div#ci-info-box
+in4.pl##div.subheader
+motostat.pl##div#messages
+zielonagora.lasy.gov.pl##.popup-alert-notice
+kartuzy.info##div#page_top_topbar2
+panasonic.pl##div#CP_Layer
+gowork.pl##div#header_top
+bleach.com.pl##div#cookis-bg
+lotnictwo.net.pl##li#navbar_notice_123
+webcam.peregrinus.pl##div.activebar-container
+forum.vwgolf.pl##iframe[src="cookie.html"]
+lot.com##div#cc
+maratony24.pl##div#privacyPolicy
+bocian.org.pl##div[id="jGrowl"][class="bottom-right jGrowl"]
+ubuntu.pl##div[class="navbar"][style="font-size: 12px; margin: 0px 20px 10px; padding: 15px;"]
+groupon.pl##div#jOftLayer
+elopol.pl##div#black2
+elopol.pl##div.ciacho-wrap-container
+wsb.pl##div#ciasteczkowy_potwor
+eukasa.pl##div#div_coockies
+bosch-home.pl##div#coockieAPContainer
+canalplus.pl##div#cookes_policy
+redbullmobile.pl##div#more1
+theregister.co.uk##div#RegCCO
+skapiec.pl##div#uclaInfo
+wiz.pl##div#menu
+wydruki-wroclaw.pl##div.activebar-container
+jak-zablokowac-cookies.pl##div.RACKWrapper
+lca.pl##div#popupDiv
+gadzetomania.pl##div#cop
+speedtest.pl##div#info_container
+forum.benchmark.pl##div#document_modal
+elektroda.pl##div#top2
+vwgolf.pl##div.sticker
+mondeoklubpolska.pl##li#navbar_notice_12
+fiatklubpolska.pl##li#navbar_notice_1
+solidarni2010.pl##div#kom
+policja.pl##div.informationBar
+firecash.org##div#info
+virginmobile.pl##div.topPanelBlock
+gry-online.pl##div#CP_box
+economist.com##div#ec-message-1
+viatoll.pl##dl#system-message
+radiomerkury.pl##div#privacyPolicyBox
+nowehoryzonty.pl##div#div_ac
+infoludek.pl##div.infcook
+filmweb.pl##div.topBarCont
+drukuj24.pl##div#politykacooki
+autokult.pl##div#cop
+goldenline.pl###topReminder
+peb.pl###jqibox
+guardian.co.uk##.identity-noticebar-content
+pogodynka.pl##div#ciastka
+gsmonline.pl##div[id*="jGrowl"][class*="bottom-right"]
+curvefever.pl##div.ccc-widget
+jarocin.poznan.lasy.gov.pl##div#aui_3_2_0_1203
+mosina.pl##div#politykaprywatnosci
+am.gdynia.pl##div#infoCiasteczek
+aptekagemini.pl##div#kukiz
+mos.gov.pl##div#textcook
+forgeworld.co.uk##div#overlayMask
+epiotrkow.pl##div.cookskom
+strefa.fm##div.cookskom
+kkm.krakow.pl##div#poityka-ciastek
+pks.zary.pl##div#infobar
+autosklep24.pl##div#box_alert
+dzis.tv##div#regulaminWrap
+zdm.poznan.pl##div#cContainer
+steplowski.net##div#cop
+everhome.pl##div.shotimoo
+marbo-sport.pl##div#topbar
+karmimypsiaki.pl##div#ciasteczkaInfoContainer
+xfutbol.pl##div#cookie
+przyspiesz.pl##div#info_container
+sklep.negrasport.com##div#topInfoContainer0
+radio81.pl##iframe[src="http://www.radio818v.nazwa.pl/cookies.php"]
+nowezyciepabianic.pl##div#PopupDiv
+krsystem.pl##div#cook
+bricomarche.pl##div#content-head-information
+e-podroznik.pl##.biscuits-usage
+tugazeta.pl##div#komunikat_ciastka
+rw2010.pl##div.head-page-information
+e-swietokrzyskie.kielce.eu##div#belka_dolna
+gimpex.pl##div#cs_gimpex
+wtkanwil.com.pl##div#ciastoWarstwa
+opac.wimbp.zgora.pl##div#alertboxsec_c
+opac.wimbp.zgora.pl##div#alertboxsec_mask
+mixmedia.pl##div#cook_info
+pzuonline.pl##td#cookies_info
+areatour.pl##div#topbar
+trasa.info##div#cookemessagehandler
+eteacher.pl##div#info_container
+foto4u.pl##div#info-bar
+pwm.com.pl##div#fancybox-outer
+pwm.com.pl##div#fancybox-overlay
+poznaj-swiat.pl##div#popup
+fzz.pl##div#alert_popup
+expozdrowie.pl##div#alert_popup
+zdrowemiasto.pl##div#_mo
+florexpol.eu##div#fancybox-overlay
+florexpol.eu##div#fancybox-wrap
+pamiec.pl##div.JSWrapper
+gpwinfostrefa.pl##div#divcook
+tp-link.com.pl##div#noticeBox
+pajerosport.pl##div#ci-info-box
+gbritain.net##div#permission-bar
+gkn.pl##div#gora0
+getem.pl##div#polityka
+ogloszenia.e-gratka.info##div#pojemnik
+cartests.pl##div.messi
+radom24.pl##div#ciasteczka-info
+feb.net.pl##div#eurociastko
+krytykapolityczna.pl##div#cccwr
+zkmgdynia.pl##div.kom_polityka_prywatnosci
+przeczytamwszystkich.pl##div#ctl00_ctl17_ctl00
+karmy.com.pl##div#privacy
+net-speak.pl##div.uwaga
+auschwitzmemento.pl##div.activebar-container
+interhandler.pl##div#comm_info
+eliza.pl##div#comm_info
+bing.com##div#thp_notf_div
+studniowka.legnica.pl##div#popupDiv
+dvdmax.pl##div#alertTop
+fedex.com##div#privacy-notice
+mojapogoda.com##div#IR
+
+||exploder.pl/info_o_cookie.js$script
+||iap.pl/admin/cookie.js$script
+||paypass.pl/themes/paypass/js/cookies.js$script
+||foto-kurier.pl//public/js/cookie.js$script
+||jak-zablokowac-cookies.pl/cookies_komunikat.js$script
+||korwin-mikke.pl/js/cookies-legal*$script
+||files.concepto.pl/cookies/cookiePolicy*$script
+||aplikacje.upc.pl/cookie-manager/*$script
+||login.gg.pl/cookies-policy/*$script
+||krolnet.pl/js/cookies*$script
+||sycow.pl/a/cookie.js$script
+||odis.pl/info_o_cookie.js$script
+
+e-fajek.pl##div[style="position: fixed; top: 0; left: 0; z-index: 10000; width: 100%; height: 30px; border-bottom: 1px solid rgba(186,186,186,.5); background-color: #000000; background-color: rgba(0,0,0,.9); color: #cccccc; font-family: Arial,Helvetica,Garuda,sans-serif; line-height: normal; font-size: 10px;"]
+marykay.pl##div[style="background-color: rgba(255, 255, 255, 0.8); border-top-width: 1px; border-top-style: solid; border-top-color: rgb(153, 153, 153); bottom: 0px; color: black; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-family: 'Arial Narrow', Arial, Helvetica, sans-serif; left: 0px; padding: 10px; position: fixed; right: 0px; text-align: center; z-index: 10000; background-position: initial initial; background-repeat: initial initial;"]
+jakipupil.pl##div[style="position: fixed; bottom: 0px; width: 100%; text-align: center; background-color: rgb(238, 238, 238); text-shadow: none; height: 40px; padding-top: 20px; z-index: 100000000; background-position: initial initial; background-repeat: initial initial;"]
+skm.warszawa.pl##div[style="width: 600px; padding: 40px 30px 30px; position: fixed; margin-left: -300px; border: 1px solid rgb(34, 34, 34); line-height: 18px; font-size: 14px; background-color: rgb(255, 255, 255); -webkit-box-shadow: rgba(50, 50, 50, 0.74902) 3px 3px 9px; box-shadow: rgba(50, 50, 50, 0.74902) 3px 3px 9px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; right: 40px; bottom: 40px; z-index: 9999; color: rgb(40, 40, 40); overflow: hidden;"]
+rys.wwf.pl##div[style="font-family: tahoma, arial, helvetica, sans-serif; min-width: 960px; width: 100%; margin: 0 auto; padding: 8px 0 18px 0; text-align: center; font-size: 10px;"]
+hss.pl##div[style="position: fixed; width: 280px; height: 112px; bottom: 15px; right: 15px; color: white; font-size: 12px; text-align: center; padding: 4px 10px; line-height: 15px; font-family: Verdana; background-image: url(http://www.xn--kope-ota.pl/cookiesWidget/minBg.png); z-index: 9999; background-position: initial initial; background-repeat: initial initial; "]
+gg.pl##div[style="position: fixed; top: 0px; left: 0px; right: 0px; bottom: auto; z-index: 6660; visibility: hidden; font-family: Arial, Tahoma, Verdana; font-size: 16px; line-height: 1em; color: rgb(34, 34, 34);"]
+bluecity.pl##div[style="position: fixed; bottom: 0px; left: 0px; width: 100%; padding: 10px 0px; background-image: url(http://bluecity.pl/public/themes/bluecity/img/cookie_bar.png); background-color: rgb(255, 255, 255); background-position: 50% 0%; background-repeat: repeat no-repeat; "]
+ibm.com##div[style="position: absolute; z-index: 2000000; top: 150px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; padding: 10px; background-image: url(http://consent.truste.com/get?name=trans.png); left: 50%; margin-left: -420px; background-position: initial initial; background-repeat: initial initial; "]
+ibm.com##div[style="background-color: rgb(0, 0, 0); opacity: 0.4; position: fixed; z-index: 1000000; width: 100%; height: 100%; top: 0px; left: 0px; overflow: hidden; "]
+kamilianie.eu##div[style="position: fixed; top: 50px; left: 0px; right: 0px; bottom: auto; z-index: 5; visibility: hidden; font-family: Arial, Verdana, Tahoma; font-size: 14px; line-height: 1em; color: rgb(34, 34, 34); "]
+recepcja.visionexpress.pl##div[style="background-color: rgb(217, 217, 217); margin: 0px auto; padding: 25px 8px 15px; position: fixed; right: 0px; width: 400px; bottom: 0px; z-index: 1000; color: rgb(0, 0, 0); border: 3px solid rgb(102, 102, 102); "]
+fandemonium.pl##div[style="; color: #999; position: absolute; top: 0; right: 40px; text-align: center; background: #333; padding: 4px 0; margin-bottom: 5px; -webkit-border-bottom-right-radius: 8px; -webkit-border-bottom-left-radius: 8px; -moz-border-radius-bottomright: 8px; -moz-border-radius-bottomleft: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; font-size: 12px; -webkit-box-shadow: 2px 2px 3px 0px rgba(127, 127, 127, 0.4); box-shadow: 2px 2px 3px 0px rgba(127, 127, 127, 0.4);"]
+hachette.com.pl##div[style="position:fixed;bottom:0;z-index:1000;width:100%;text-align:center;background:#EEE;padding:15px 0;border-top:1px solid #333;"]
+visionexpress.pl##div[style="background-color: rgb(234, 234, 234); margin: 0px auto; padding: 25px 8px 15px; position: fixed; right: 0px; width: 400px; bottom: 0px; z-index: 1000; color: rgb(0, 0, 0); border: 3px solid rgb(102, 102, 102); "]
+centrum-bmw.pl##div[style="width: 100%; background-color: rgb(193, 193, 193); margin: 10px auto 0px; padding: 15px 8px; position: fixed; left: 0px; bottom: 0px; z-index: 1000; color: rgb(255, 255, 255); "]
+hawle.pl##div[style="top:0;left:0;right:0;width:100%;margin:0px auto;background:url(images/cookies_tlo.png) repeat-x left top;height:36px;overflow:hidden;"]
+czescidobmw.pl##div[style="position:fixed;left:0;top:0;width:100%;height:100%;background:#000;background:rgba(0,0,0,0.5);z-index:99999;cursor:pointer"]
+dpd.com.pl##div[style="width:940px; border:#CCCCCC 1px solid; padding:10px; z-index:100; position: fixed; left:auto; bottom:10px; background-color: #CCCCCC; font-size:10px;"]
+sklep.vistula.pl##div[style="text-align: center; position: fixed; bottom: 0px; left: 0px; right: 0px; background: none repeat scroll 0% 0% rgb(240, 240, 240); border-top: 2px solid rgb(204, 204, 204);"]
+mamnewsa.pl##div[style="z-index: 100000; font-family:Arial; position: fixed; bottom: 0px; left: 0; background-color: #F4EFB4; color: #000000; text-align: center; font-weight: bold; padding: 20px 0px; width:100%;"]
+motonotes.pl##div[style="background-color:black; width=100%; height:25px; color:white; position:absolute"]
+portel.pl##div[style="font-size:10px;text-align:left;background-color: #EAF6B4;padding: 2px 7px;width:906px;margin: 0 auto;"]
+dodrukarki.pl##div[style="background:#FFFADE; padding:6px 0px;"]
+aptekadyzurna.pl##div[style="padding: 10px 70px 10px 50px; font-family: arial, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 9px; line-height: normal; background-color: rgb(153, 153, 153); display: block; position: relative; color: white; width: 99%; "]
+itaka.pl##div[style="position: fixed; bottom: 0px; width: 100%; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(187, 187, 187); box-shadow: rgb(238, 238, 238) 0px -10px 20px; padding: 10px; text-align: center; background-color: rgb(252, 252, 252); z-index: 10000; background-position: initial initial; background-repeat: initial initial; "]
+dealertata.pl##div[style="margin: auto auto; padding:10px 0; width:100%; z-index:1000; background:#333; position: fixed; left: auto; bottom: 0%; right: auto;"]
+pochlaniaczwilgoci.com.pl##div[style="display: block; position: fixed; bottom: 0px; z-index: 10000; width: 100%; padding: 10px 0px; border-top-style: solid; border-top-width: 2px; border-top-color: rgb(140, 140, 140); background-color: rgb(250, 250, 250); overflow: hidden; opacity: 0.95; "]
+oracle.com##div[style="background-color: rgb(0, 0, 0); opacity: 0.4; position: fixed; z-index: 1000000; width: 100%; height: 100%; top: 0px; left: 0px; overflow: hidden; "]
+oracle.com##div[style="position: absolute; z-index: 2000000; top: 150px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; padding: 10px; background-image: url(http://consent.truste.com/get?name=trans.png); left: 50%; margin-left: -425px; background-position: initial initial; background-repeat: initial initial; "]
+zgnwola.waw.pl##div[style="display: block; z-index: 1002; outline: 0px; position: absolute; height: auto; width: 300px; top: 207px; left: 346px; "]
+imagazine.pl##div[style="position: fixed; bottom: 0px; padding: 10px 30px; z-index: 10000; background-color: rgb(255, 255, 255); box-shadow: rgb(102, 102, 102) 0px 0px 10px; width: 100%; box-sizing: border-box; background-position: initial initial; background-repeat: initial initial;"]
+domena.pl##div[style="width: 950px; display: block; margin: 0px auto; background-color: rgb(255, 250, 222); padding: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; border: 1px solid rgb(238, 238, 238); font-size: 11px; position: relative; z-index: 1999; "]
+taniaksiazka.pl##div[style="position: fixed; z-index: 9999; width: 100%; margin: 0px; padding: 5px 20px; text-align: center; line-height: 1.3em; top: 0px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(131, 132, 132); background-color: rgb(244, 244, 244); font-size: 12px; background-position: initial initial; background-repeat: initial initial; "]
+mocnopomocni.pl##div[style="width: 100%; background-color: rgb(242, 242, 242); margin: 10px auto 0px; padding: 15px 8px; position: fixed; left: 0px; bottom: 0px; z-index: 1000; color: rgb(40, 40, 40); "]
+przygodymisiabu.pl##div[style="display: block; position: relative; z-index: 999; background-color: rgb(255, 255, 255); left: 0px; right: 0px; color: rgb(0, 0, 0); font-family: Arial; font-size: 13px; line-height: 17px; padding: 7px 0px; overflow: hidden; top: 0px; background-position: initial initial; background-repeat: initial initial; "]
+pzm.bydgoszcz.pl##div[tyle="position: fixed; left:0; right:0; bottom:0; height:70px; background-color:#eee; border: 1px solid red; z-index:1000; overflow: auto"]
+cabletech.pl##div[style="top:0;position:absolute;width:100%;background:#000;color:#f2f2f2;font-size:10px;text-align:center"]
+radiohit.net.pl##div[style="width:880px; padding:10px; margin:3px; background-color:#EFEFEF; color:#000000; text-align:center; margin-bottom:10px; font-weight:normal; display:block; font-size:11px; opacity:1.0; filter:alpha(opacity=100);"]
+openpli.org##div[style="height:20px;background-color:#FAFFDC;color:#222;padding:10px;font-size:1.1em !important;"]
+kartamultisport.pl##div[style=" width: 780px; background:#f0f0f0; text-align:center;  margin:0px auto 0px auto;  border:1px solid #cccccc; position:relative;"]
+fansubs.pl##div[style="border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; padding: 10px; top: 0px; right: 0%; width: 94%; opacity: 1; margin-left: 2%; display: block; "]
+gosc.pl##div[style="border: 10px solid rgb(138, 138, 138); border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.901961) 0px 0px 15px 0px; padding: 8px 8px 10px; position: fixed; z-index: 99999; right: 20px; left: 20px; bottom: 20px; width: 700px; max-width: 90%; background-color: rgb(255, 255, 255);"]
+info.wiara.pl##div[style="border: 10px solid rgb(138, 138, 138); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; box-shadow: rgba(0, 0, 0, 0.901961) 0px 0px 15px 0px; background-color: rgb(255, 255, 255); padding: 8px 8px 10px; position: fixed; z-index: 99999; right: 20px; left: 20px; bottom: 20px; width: 700px; max-width: 90%;"]
+kosciol.wiara.pl##div[style="border: 10px solid rgb(138, 138, 138); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; box-shadow: rgba(0, 0, 0, 0.898438) 0px 0px 15px 0px; background-color: rgb(255, 255, 255); padding: 8px 8px 10px; position: fixed; right: 20px; bottom: 20px; width: 700px; max-width: 90%; "]
+wiara.pl##div[style="border: 10px solid rgb(138, 138, 138); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; box-shadow: rgba(0, 0, 0, 0.898438) 0px 0px 15px 0px; background-color: rgb(255, 255, 255); padding: 8px 8px 10px; position: fixed; right: 20px; bottom: 20px; width: 700px; max-width: 90%; "]
+bookiatryk.pl##div[style="position: fixed; z-index: 9999; top: 0px; width: 100%; margin: 0px; padding: 5px 20px; text-align: center; line-height: 1.3em; background-color: rgb(255, 255, 255); font-size: 15px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(255, 0, 0); background-position: initial initial; background-repeat: initial initial;"]
+forum.zarabianie24.net##div[style="font-family: Tahoma; margin-bottom: 6px; padding: 5px; font-size: 10px; color: rgb(0, 0, 0); background-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-color: black; border-bottom-style: solid; "]
+pobieralnia.org##div[style="text-align: center; height: 40px; width: 100%; left: 0; position: fixed; top: 0; z-index: 2001; background: rgb(165, 62, 4); -webkit-box-shadow: 0px -4px 4px -4px rgba(0, 0, 0, 0.75) inset; box-shadow: 0px -4px 4px -4px rgba(0, 0, 0, 0.75) inset"]
+przeploty.pl##div[style="font-size:15px;padding-top:20px;padding-bottom:20px;width:950px;text-align:left;margin:auto;"]
+fantastyka.pl##div[style="text-align: center; padding: 15px; border-bottom: 2px solid #cc3300; background: url(obrazki/kwadrat-monit.png); font-size: 9pt;"]
+klopsztanga.eu##div[style="background:#2A2A2A; left:0px; bottom:0px; right:0px; position:fixed; z-index:10000;"]
+automapa.pl##div[style="position: absolute; z-index: 32000; font-size: 11px; font-family: Arial, sans-serif; left: 50%; top: 3px; width: 600px; height: 130px; margin-left: -300px; margin-top: 0px; border: 1px solid rgb(219, 219, 219); color: rgb(85, 85, 85);"]
+eldom.eu##div[style="width: 100%; background-color: rgb(29, 29, 29); background: none repeat scroll 0 0 rgba(29, 29, 29, 0.94); color: #F5F5F5; border-bottom: solid 1px #cecece; border-top: solid 1px #fafafa; position: fixed; bottom: 0; z-index: 999;"]
+asd.pl##div[style="width: 100%;float: left;background: #fff;padding: 15px 0;position: fixed;top: 0px;left: 0px;text-align: center;color: #000;border-bottom: 1px #000 solid;z-index: 1000;"]
+rozklady.kzkgop.pl##div[style="position: relative; border: solid 2px gray; margin: 10px; padding: 10px; color: gray; font-weight: bold;"]
+niniwateam.pl##div[style="background-color: rgb(255, 230, 173); color: rgb(0, 0, 102); position: fixed; top: 0px; width: 100%; padding: 10px; font-size: 12px; "]
+oswiecimskie24.pl##div[style="z-index: 100000; font-family:Arial; position: fixed; bottom: 0px; left: 0; background-color: #F4EFB4; color: #000000; text-align: center; font-weight: bold; padding: 20px 0px; width:100%;"]
+niezalezna.pl##div[style="border: 2px solid #900; margin-left: auto; margin-right: auto; padding: 3px; width: 984px"]
+katowice-airport.com##div[style="border: 5px solid rgb(51, 179, 238); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 15px 0px; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 15px 0px; background-color: rgb(255, 255, 255); padding: 8px 8px 10px; position: fixed; z-index: 10000; left: 25px; bottom: 25px; width: 700px; max-width: 90%; font-size: 12px;"]
+automapa.pl##div[style="position: absolute; z-index: 32000; font-size: 11px; font-family: Arial, sans-serif; left: 50%; top: 3px; width: 600px; height: 130px; margin-left: -300px; margin-top: 0px; border: 1px solid rgb(219, 219, 219); color: rgb(85, 85, 85);"]
+manusite.pl##div[style="width:960px;height:100px;background:#0F0F0F;font-size:15px;text-align:center;padding:10px auto;"]
+devilpage.pl##div[style="background:#2A2A2A; left:0px; top:0px; right:0px;"]
+targeo.pl##div[style="position: absolute; z-index: 32000; font-size: 11px; font-family: Arial, sans-serif; left: 50%; top: 3px; width: 600px; height: 130px; margin-left: -300px; margin-top: 0px; border: 1px solid rgb(219, 219, 219); color: rgb(85, 85, 85);"]
+fora.pl##div[style="position: fixed; top: 28px; left: 0px; right: 0px; bottom: auto; z-index: 6660; visibility: hidden; font-family: Arial, Tahoma, Verdana; font-size: 16px; line-height: 1em; color: rgb(34, 34, 34);"]
+blog.orange.pl##div[style="width: 100%; background-color: rgb(0, 0, 0); margin: 10px auto 0px; padding: 15px 8px; position: fixed; left: 0px; bottom: 0px; z-index: 1000; color: rgb(255, 255, 255);"]
+korwin-mikke.pl##div[style="padding: 5px 3px; width: 500px; margin: 0px; background-color: rgba(0, 0, 0, 0.85098); -webkit-box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 10px; box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 10px; position: absolute; top: 0px; left: 254px; font-family: Arial, Helvetica, Garuda, sans-serif; text-align: center; color: rgb(255, 255, 255); z-index: 9999; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; background-position: initial initial; background-repeat: initial initial;"]
+gosc.pl##div[style="border: 10px solid rgb(138, 138, 138); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; box-shadow: rgba(0, 0, 0, 0.898438) 0px 0px 15px 0px; background-color: rgb(255, 255, 255); padding: 8px 8px 10px; position: fixed; right: 20px; bottom: 20px; width: 700px; max-width: 90%; "]
+maybellinetrends.pl##div[style="position: fixed; z-index: 999; bottom: 0px; right: 0px; width: 900px; padding: 18px 0px !important; background-color: rgb(0, 0, 0) !important; color: rgb(255, 255, 255) !important; font-family: arial !important; font-size: 12px !important; border-top-left-radius: 4px !important; border-top-right-radius: 4px !important; border-bottom-right-radius: 4px !important; border-bottom-left-radius: 4px !important; background-position: initial initial !important; background-repeat: initial initial !important;"]
+k-ex.pl##div[style="position: fixed; bottom: 0px; width: 100%; background-color: rgb(204, 204, 204); z-index: 1; box-shadow: rgb(102, 102, 102) 0px 0px 5px;"]
+pccentre.pl##div[style="display: block; position: relative; width: 96%; border: 1px solid rgb(204, 204, 204); padding: 5px; height: 58px; margin-left: 2%; margin-right: 2%; margin-top: 1%;"]
+biegambolubie.com.pl##div[style="position: fixed; top: 0px; left: 0px; right: 0px; z-index: 9999; background-color: rgb(119, 119, 119); color: rgb(255, 255, 255); font-size: 12px; font-family: Arial, sans-serif; border-bottom-width: 2px; border-bottom-style: ridge; border-bottom-color: rgb(204, 204, 204); padding: 3px 40px; line-height: 16px; cursor: pointer; background-position: initial initial; background-repeat: initial initial; "]
+cke.edu.pl##div[style="top:0;left:0;right:0;width:100%;margin:0px auto;background:#fff;height:50px;"]
+joemonster.org,mistrzowie.org,komixxy.pl,demotywatory.pl,faktopedia.pl,fabrykamemow.pl,motokiller.pl,kotburger.pl,piekielni.pl,atakklonow.pl,rebelianci.org,wspaniali.pl,tenajlepsze.pl,wezsietato.pl,stylowi.pl,wszechpolska.pl,gifowisko.pl,filmixxy.pl,popkorn.pl,dawniejdzisiaj.pl,studentpotrafi.pl,superbobas.tv,wykresy.pl,machinaczasu.pl,wyciagamykarteczki.pl##div[style="position: fixed; left:0; right:0; bottom:0; height:120px; background-color:#eee; border-top: 1px solid black; z-index:1000; overflow: auto"]
+demotywatory.pl##div[style="position: fixed; width: 750px; margin-left: -375px; bottom: 0; height: 68px; background-color: #ccc; border-top: 1px solid black; z-index: 1000; overflow: hidden; left: 50%; padding: 15px 30px; color: #666; font-family: arial; font-size: 12px; line-height:150%;"]
+sportowysklep.pl##div[style="background-color: rgb(73, 73, 73); color: rgb(255, 255, 255); font-size: 12px; font-family: sans-serif; position: fixed; bottom: 0px; left: 0px; padding: 10px 15%; opacity: 0.9; z-index: 9999; line-height: 18px; background-position: initial initial; background-repeat: initial initial;"]
